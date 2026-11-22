@@ -1,0 +1,11 @@
+CÀI APP SHIPPER NHƯ ỨNG DỤNG ĐỘC LẬP (PWA)
+
+1. Đưa cả thư mục này lên 1 trang web miễn phí có HTTPS, ví dụ:
+   - Netlify Drop (app.netlify.com/drop): kéo thả thư mục vào là có link.
+   - Cloudflare Pages / GitHub Pages cũng được.
+2. Mở link đó bằng Chrome (Android) hoặc Safari (iPhone).
+3. Android: menu 3 chấm > "Cài đặt ứng dụng" (Install app).
+   iPhone: nút Chia sẻ > "Thêm vào Màn hình chính".
+4. Mở từ icon ngoài màn hình: chạy toàn màn hình, không có thanh địa chỉ, dùng được cả khi mất mạng.
+
+Lưu ý: dữ liệu tiền theo ngày lưu riêng theo từng địa chỉ web. App cài từ link mới sẽ bắt đầu trống.
